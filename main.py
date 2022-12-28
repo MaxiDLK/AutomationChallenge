@@ -88,3 +88,5 @@ validar_enviar()
 
 #Se mueve al footer y valida si es visible
 mover_a_footer()
+
+driver.quit()
